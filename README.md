@@ -12,7 +12,7 @@ In the "fit_linea_model.R" file, two linear models are fitted to data from "expe
 
 Case 1: K >> N0, t is small (exponential growth phase)
 
-Result: log(N) = 9.990e-03t + 6.903
+Result: ln(N) = 9.990e-03t + 6.903
 
 Case 2: N(t) = K (equilibrium phase)
 
