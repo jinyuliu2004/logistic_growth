@@ -24,7 +24,7 @@ Result: N = 6.000e+10
 
 In the "plot_data_and_model.R" file, the parameters of the model are obtained from the linear models above according to the two regression equations derived from the differential equation of exponential growth:
 
-N(0) = exp(6.903) = 
+N(0) = exp(6.903) 
 
 r = 9.990e-03
 
