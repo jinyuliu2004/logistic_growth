@@ -16,7 +16,7 @@ Result: ln(N) = 9.990e-03t + 6.903
 
 Case 2: N(t) = K (equilibrium phase)
 
-Result: N = 6.000 x 10\u00B10
+Result: N = 6.000e+10
 
 
 **Results**
