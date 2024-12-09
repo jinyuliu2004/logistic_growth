@@ -43,3 +43,8 @@ N(4980) = exp(6.903) * exp(9.990e-03 * 4980)
 N(4980) = 4.019501e+24
 
 This is much larger than the carrying capacity and equilibrium population predicted under logistic growth.
+
+
+**Question 3**
+
+![image](https://github.com/user-attachments/assets/1b4714ec-5cae-4756-aafa-ad8c81b39a7a)
