@@ -21,8 +21,8 @@ K <- 6.000e+10 #
 
 
 ggplot(aes(t, N), data = growth_data) +
-  geom_function(aes(color = "Logistic Function"), fun = LogisticFunction) +
-  geom_function(aes(color = "Exponential Function"), fun = ExponentialFunction) +
+  geom_function(aes(color = "Logistic"), fun = LogisticFunction) +
+  geom_function(aes(color = "Exponential"), fun = ExponentialFunction) +
   ylim(0, 10e+10) +
   labs(
     title = "Comparison of Logistic and Exponential Growth",
@@ -30,6 +30,6 @@ ggplot(aes(t, N), data = growth_data) +
     y = "Population (N)",
     color = "Growth Functions"  
   ) +
-  scale_color_manual(values = c("Logistic Function" = "red", "Exponential Function" = "blue"))
+  scale_color_manual(values = c("Logistic" = "red", "Exponential" = "blue"))
 
 
