@@ -7,15 +7,13 @@ In the "plot_data.R" file, two graphs are produced to visualize growth rate:
 2. log population size (log(N)) against time (t), showing a linear relationship before reaching equilibrium
 
 
+
 In the "fit_linea_model.R" file, two linear models are fitted to data from "experiment.csv" under two different scenarios:
-
 Case 1: K >> N0, t is small (exponential growth phase)
-
 Result: log(N) = 9.990e-03t + 6.903
-
 Case 2: N(t) = K (equilibrium phase)
-
 Result: N = 6.000e+10
+
 
 **Results**
 
