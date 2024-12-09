@@ -33,7 +33,9 @@ K = 6.000e+10
 The model is plotted with the data points to verify accuracy.
 
 
+
 **Question 2**
+
 N(t) = N(0) * exp(r*t)
 
 N(4980) = exp(6.903) * exp(9.990e-03 * 4980)
