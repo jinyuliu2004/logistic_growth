@@ -1,5 +1,6 @@
 # logistic_growth
 **Question 1**
+
 This is an analysis on the logistic growth model for a 100µl E.coli isolate cultured in 1ml media, based on growth data recorded in "experiment.csv". 
 
 
